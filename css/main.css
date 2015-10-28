@@ -9,3 +9,32 @@ body {
 form{
 	background-color: white;
 }
+
+.well{
+	margin-top: 30px;
+}
+
+.btn-danger{
+	float: right;
+}
+
+img{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+ol{
+	list-style: none;
+	padding-left: 0px;
+}
+
+#stars{
+	padding-bottom: 10px;
+	color: gold;
+}
+
+#divStar{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	color: gold;
+}
